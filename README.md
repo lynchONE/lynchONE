@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lynchONE's Web3 | Identity](https://stats.quine.sh/lynchONE/web3?theme=dark)](https://quine.sh)
