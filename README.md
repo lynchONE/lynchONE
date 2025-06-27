@@ -1,4 +1,4 @@
-### Friend, Welcome!!! 👋
+### Friend, Welcome!!! 👋7年老java，正在学习solidity/rust/go  ...
 
 <!--
 **lynchONE/lynchONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
