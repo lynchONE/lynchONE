@@ -1,4 +1,5 @@
-### Friend, Welcome!!! 👋勇闯web3，正在学习solidity/rust/go  ...
+### Friend, Welcome!!! 👋
+正在学习solidity/rust/go  ...
 
 <!--
 **lynchONE/lynchONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
