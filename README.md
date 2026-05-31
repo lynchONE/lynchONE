@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://readme-stats-tk2u.vercel.app/api/top-langs/?username=lynchONE&layout=compact&show_icons=true&count_private=true&hide=html,scss,css,dockerfile,batchfile,shell,makefile,javascript,typescript,powershell,go template)
+![Top Langs](https://readme-stats-tk2u.vercel.app/api/top-langs/?username=lynchONE&layout=compact&show_icons=true&count_private=true&hide=html,scss,css,dockerfile,batchfile,shell,makefile,javascript,typescript,powershell,gotemplate)
 
 
